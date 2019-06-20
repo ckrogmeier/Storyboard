@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.owostoryboard.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\pevirtual2\\Desktop\\OWO - Mockup\\Unity-owo\\Storyboard\\OWO-Storyboard\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "OWO-Storyboard [Testing]"
+        }
+      }
+    }
+  ]
+}
